@@ -44,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 From your terminal:
 
 ```sh
-pnpm run dev
+ppnpm run dev
 ```
 
 This starts the app in development mode, rebuilding assets on file changes.
